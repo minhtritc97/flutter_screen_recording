@@ -1,4 +1,4 @@
-package com.isvisoft.flutter_screen_recording
+package com.isvisoft.flutter_screen_recording.R
 
 import android.Manifest
 import android.app.NotificationChannel
